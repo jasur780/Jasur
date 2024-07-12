@@ -1,0 +1,7 @@
+Magsulot nomi: Olma
+Magsulot ID si: 12
+Magsulot narxi: 12
+Magsulot soni: 109Magsulot nomi: q
+Magsulot ID si: 1
+Magsulot narxi: 1
+Magsulot soni: 1

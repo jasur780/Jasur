@@ -1,0 +1,8 @@
+Ismi: Jasur
+Familyasi: Amanyazov
+Lavozimi: dasturchi
+Ish haqqi: 1500
+Ismi: Farangiz
+Familyasi: bilmadim
+Lavozimi: manager
+Ish haqqi: 2500

@@ -1,0 +1,20 @@
+Ismi: Jasur
+Familyasi: Amanyazov
+Lavozimi: Dasturchi
+Ish haqqi: 500
+Ismi: Farangiz
+Familyasi: bilmadim
+Lavozimi: manager
+Ish haqqi: 1200
+Ismi: jasur
+Familyasi: q
+Lavozimi: q
+Ish haqqi: 1
+Ismi: q
+Familyasi: q
+Lavozimi: q
+Ish haqqi: 1
+Ismi: q
+Familyasi: q
+Lavozimi: q
+Ish haqqi: 1

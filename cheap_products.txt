@@ -1,0 +1,4 @@
+Magsulot nomi: Olma
+Magsulot narxi: 9
+Magsulot soni: 100
+

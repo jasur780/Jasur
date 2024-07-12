@@ -1,0 +1,6 @@
+Magsulot nomi: Olma
+Narxi:         9
+Magsulot soni: 100
+Magsulot nomi: olma
+Narxi:         12
+Magsulot soni: 120

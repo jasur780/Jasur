@@ -1,0 +1,5 @@
+Magsulot nomi: Olma
+Magsulot ID si: 12
+Narxi: $12
+Magsulot soni: 109
+

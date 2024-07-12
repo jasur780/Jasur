@@ -1,0 +1,25 @@
+Kitop nomi:  Harry Potter and the Philosopher's Stone
+Muallifi:    J.R.R. Tolkin
+Yili:        1998
+Narxi:       $25
+
+Kitop nomi:  Harry Potter and the Philosopher's Stone
+Muallifi:    J.K. Rowling
+Yili:        1997
+Narxi:       $25
+
+Kitop nomi:  k
+Muallifi:    q
+Yili:        1
+Narxi:       $1
+
+Kitop nomi:  q
+Muallifi:    q
+Yili:        1
+Narxi:       $1
+
+Kitop nomi:  q
+Muallifi:    q
+Yili:        1
+Narxi:       $1
+
